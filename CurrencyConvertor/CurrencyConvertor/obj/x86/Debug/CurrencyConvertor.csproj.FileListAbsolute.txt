@@ -1,0 +1,7 @@
+C:\Users\ShakirKhan\Desktop\CurrencyConvertor\CurrencyConvertor\obj\x86\Debug\CurrencyConvertor.Form1.resources
+C:\Users\ShakirKhan\Desktop\CurrencyConvertor\CurrencyConvertor\obj\x86\Debug\CurrencyConvertor.Properties.Resources.resources
+C:\Users\ShakirKhan\Desktop\CurrencyConvertor\CurrencyConvertor\obj\x86\Debug\CurrencyConvertor.csproj.GenerateResource.Cache
+C:\Users\ShakirKhan\Desktop\CurrencyConvertor\CurrencyConvertor\bin\Debug\CurrencyConvertor.exe
+C:\Users\ShakirKhan\Desktop\CurrencyConvertor\CurrencyConvertor\bin\Debug\CurrencyConvertor.pdb
+C:\Users\ShakirKhan\Desktop\CurrencyConvertor\CurrencyConvertor\obj\x86\Debug\CurrencyConvertor.exe
+C:\Users\ShakirKhan\Desktop\CurrencyConvertor\CurrencyConvertor\obj\x86\Debug\CurrencyConvertor.pdb
